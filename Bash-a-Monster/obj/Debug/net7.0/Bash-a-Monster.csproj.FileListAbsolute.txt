@@ -1,0 +1,14 @@
+c:\Users\amira.abdulleiid\Documents\prog2\Bash-a-Monster\Bash-a-Monster\bin\Debug\net7.0\Bash-a-Monster.exe
+c:\Users\amira.abdulleiid\Documents\prog2\Bash-a-Monster\Bash-a-Monster\bin\Debug\net7.0\Bash-a-Monster.deps.json
+c:\Users\amira.abdulleiid\Documents\prog2\Bash-a-Monster\Bash-a-Monster\bin\Debug\net7.0\Bash-a-Monster.runtimeconfig.json
+c:\Users\amira.abdulleiid\Documents\prog2\Bash-a-Monster\Bash-a-Monster\bin\Debug\net7.0\Bash-a-Monster.dll
+c:\Users\amira.abdulleiid\Documents\prog2\Bash-a-Monster\Bash-a-Monster\bin\Debug\net7.0\Bash-a-Monster.pdb
+c:\Users\amira.abdulleiid\Documents\prog2\Bash-a-Monster\Bash-a-Monster\obj\Debug\net7.0\Bash-a-Monster.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\amira.abdulleiid\Documents\prog2\Bash-a-Monster\Bash-a-Monster\obj\Debug\net7.0\Bash-a-Monster.AssemblyInfoInputs.cache
+c:\Users\amira.abdulleiid\Documents\prog2\Bash-a-Monster\Bash-a-Monster\obj\Debug\net7.0\Bash-a-Monster.AssemblyInfo.cs
+c:\Users\amira.abdulleiid\Documents\prog2\Bash-a-Monster\Bash-a-Monster\obj\Debug\net7.0\Bash-a-Monster.csproj.CoreCompileInputs.cache
+c:\Users\amira.abdulleiid\Documents\prog2\Bash-a-Monster\Bash-a-Monster\obj\Debug\net7.0\Bash-a-Monster.dll
+c:\Users\amira.abdulleiid\Documents\prog2\Bash-a-Monster\Bash-a-Monster\obj\Debug\net7.0\refint\Bash-a-Monster.dll
+c:\Users\amira.abdulleiid\Documents\prog2\Bash-a-Monster\Bash-a-Monster\obj\Debug\net7.0\Bash-a-Monster.pdb
+c:\Users\amira.abdulleiid\Documents\prog2\Bash-a-Monster\Bash-a-Monster\obj\Debug\net7.0\Bash-a-Monster.genruntimeconfig.cache
+c:\Users\amira.abdulleiid\Documents\prog2\Bash-a-Monster\Bash-a-Monster\obj\Debug\net7.0\ref\Bash-a-Monster.dll
