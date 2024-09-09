@@ -17,3 +17,5 @@ Console.WriteLine($"{theMonster.name} har nu {theMonster.health} hp");
 
 Console.WriteLine("tryck vart som helst för att fortsätta");
 Console.ReadKey();
+
+// KOMMENTARER ÄR ENDAST SÅ JAG KAN LÄRA MIG VAD ALLTING GÖR
